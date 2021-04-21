@@ -1,9 +1,10 @@
 const a = 1
 b = 3
+c = 2
 
 var z = +prompt("Delfin yordam bersinmi? 1/0")
 if(z == 1){
-        a == 2 
+        a == c 
 } else {
         a == 1
 }
